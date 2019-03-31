@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\4200ade3bef898792e046a09ce66ec87\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\49c3f4ee7ae0e4da70533ca590f55b18\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\b0f54af9361ae349ff4efccdd606ac03\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\4db81288904c9a8a10b83a91bf94ae67\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\e8f17c22452ec8a10fca98c62e23fab9\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\0680087f97248483f371e124c6d7a59d\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\23badb47560cff59f5caa5a0cbef23bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\c3f9001b0b6cdb4cd9b48f57c47be809\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\33f877f93bbd6d7c3d9c64750aca02bd\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\239e90ec9cc73b8e65960fb880a729a4\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\1c8dd93a35abbc87312c9585aa494bff\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\b12bfc1286b3c8387c2001e80c9fd2ff\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\06e60a824f8def7d877e423f26724976\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\86a5cae2d47ad93f7d8cc2fe0facf1e0\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\c2cf890d2349b3f8966cb33fcd85675d\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\0670163839ccc9e238de9db40a7838ca\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\2cc376a5aa3d3fbb363d0f469f2579f8\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\785f81bcba03854d31da5ec445dce387\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\d4e8249f24c314b024ccc813eacbe834\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\2474741ae625a1ca926a7a26960fb7f7\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\da806816a9919dd7c9a6bd7fc27f6cab\AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\26e689e91879ac8d0d9a46c48ebcca89\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6d266497ee96b2bb259f5e084a5dd0f9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b2cfc4f074386361851da22eb4713f9c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e87ef6ec389d15b9a644463b61371e6c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\49c3f4ee7ae0e4da70533ca590f55b18\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\49c3f4ee7ae0e4da70533ca590f55b18\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.yatheeswari.quizzle.MainActivity
+ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\4200ade3bef898792e046a09ce66ec87\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\4200ade3bef898792e046a09ce66ec87\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\49c3f4ee7ae0e4da70533ca590f55b18\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\49c3f4ee7ae0e4da70533ca590f55b18\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\b0f54af9361ae349ff4efccdd606ac03\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\b0f54af9361ae349ff4efccdd606ac03\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\4db81288904c9a8a10b83a91bf94ae67\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\4db81288904c9a8a10b83a91bf94ae67\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\e8f17c22452ec8a10fca98c62e23fab9\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\e8f17c22452ec8a10fca98c62e23fab9\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\0680087f97248483f371e124c6d7a59d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\0680087f97248483f371e124c6d7a59d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\23badb47560cff59f5caa5a0cbef23bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\23badb47560cff59f5caa5a0cbef23bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\c3f9001b0b6cdb4cd9b48f57c47be809\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\c3f9001b0b6cdb4cd9b48f57c47be809\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\33f877f93bbd6d7c3d9c64750aca02bd\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\33f877f93bbd6d7c3d9c64750aca02bd\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\239e90ec9cc73b8e65960fb880a729a4\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\239e90ec9cc73b8e65960fb880a729a4\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\1c8dd93a35abbc87312c9585aa494bff\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\1c8dd93a35abbc87312c9585aa494bff\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\b12bfc1286b3c8387c2001e80c9fd2ff\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\b12bfc1286b3c8387c2001e80c9fd2ff\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\06e60a824f8def7d877e423f26724976\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\06e60a824f8def7d877e423f26724976\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\86a5cae2d47ad93f7d8cc2fe0facf1e0\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\86a5cae2d47ad93f7d8cc2fe0facf1e0\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\c2cf890d2349b3f8966cb33fcd85675d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\c2cf890d2349b3f8966cb33fcd85675d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\0670163839ccc9e238de9db40a7838ca\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\0670163839ccc9e238de9db40a7838ca\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\2cc376a5aa3d3fbb363d0f469f2579f8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\2cc376a5aa3d3fbb363d0f469f2579f8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\785f81bcba03854d31da5ec445dce387\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\785f81bcba03854d31da5ec445dce387\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\d4e8249f24c314b024ccc813eacbe834\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\d4e8249f24c314b024ccc813eacbe834\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\2474741ae625a1ca926a7a26960fb7f7\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\2474741ae625a1ca926a7a26960fb7f7\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\da806816a9919dd7c9a6bd7fc27f6cab\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\da806816a9919dd7c9a6bd7fc27f6cab\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\26e689e91879ac8d0d9a46c48ebcca89\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\26e689e91879ac8d0d9a46c48ebcca89\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6d266497ee96b2bb259f5e084a5dd0f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6d266497ee96b2bb259f5e084a5dd0f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b2cfc4f074386361851da22eb4713f9c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b2cfc4f074386361851da22eb4713f9c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e87ef6ec389d15b9a644463b61371e6c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e87ef6ec389d15b9a644463b61371e6c\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\AndroidStudioProjects\Quizzle\app\src\main\AndroidManifest.xml
